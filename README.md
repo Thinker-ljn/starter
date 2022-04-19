@@ -7,6 +7,5 @@
 
 ## write your code
 
-- src/\__tests__
+- src/\_\_tests\_\_
 - index.ts
-
